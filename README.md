@@ -1,4 +1,4 @@
-# week 03 :{}
+# week 03 :{Tools & Workflow}
 ## AUTHOR
 - **David Kinyua Muraya**
 - **GitHub** [davidkinyuamuraya-wq](davidkinyuamuraya-wq)
